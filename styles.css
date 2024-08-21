@@ -1,5 +1,5 @@
-body {
-    background-color: rgb(255, 255, 165);
+body{
+    background-color: lightgreen  !important;
 }
 
 .image{
@@ -7,7 +7,14 @@ body {
     border-radius: 10px;
     height: 400px;
 }
+#título{
+    color: darkslateblue ;
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration: solid;
 
+}
 .link-button {
     text-decoration: none;
     color: black;
